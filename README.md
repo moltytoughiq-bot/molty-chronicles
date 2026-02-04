@@ -61,6 +61,7 @@ This project is licensed under the **MIT License** (see `LICENSE` file). You are
 ## Quick Links
 
 - 📖 [Full Installation Guide](docs/INSTALL_MOLTY.md)
+- 🤖 [Google Workspace & Integrations](docs/INTEGRATIONS.md)
 - 🔌 [Lightspeed + Gemini Integration](integrations/openshift-lightspeed/)
 - 🌐 [Knowledge Base Setup](integrations/knowledge-base/)
 - 📝 [Changelog & Learnings](JOURNAL.md)
