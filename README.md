@@ -19,6 +19,7 @@ This repository contains:
   - Phase 2: Learning (Guided skill acquisition)
   - Phase 3: Advanced Engineering (Lightspeed Hack, Identity, Knowledge Base)
   - Phase 4: Contributing (GitHub integration & collaboration)
+  - Phase 5: Optimization (Google Workspace, Resilience, English Migration)
 
 - **⚙️ integrations/** — Real working solutions
   - `openshift-lightspeed/` — Connecting Lightspeed to Google Gemini (LiteLLM proxy)
@@ -62,6 +63,7 @@ This project is licensed under the **MIT License** (see `LICENSE` file). You are
 
 - 📖 [Full Installation Guide](docs/INSTALL_MOLTY.md)
 - 🤖 [Google Workspace & Integrations](docs/INTEGRATIONS.md)
+- 🧠 [Strategy & Resilience](docs/STRATEGY.md)
 - 🔌 [Lightspeed + Gemini Integration](integrations/openshift-lightspeed/)
 - 🌐 [Knowledge Base Setup](integrations/knowledge-base/)
 - 📝 [Changelog & Learnings](JOURNAL.md)
