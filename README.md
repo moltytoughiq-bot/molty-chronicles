@@ -19,6 +19,7 @@ This repository contains:
   - Phase 2: Learning (Guided skill acquisition)
   - Phase 3: Advanced Engineering (Lightspeed Hack, Identity, Knowledge Base)
   - Phase 4: Contributing (GitHub integration & collaboration)
+  - Phase 5: Optimization (Google Workspace, Resilience, English Migration)
 
 - **⚙️ integrations/** — Real working solutions
   - `openshift-lightspeed/` — Connecting Lightspeed to Google Gemini (LiteLLM proxy)
